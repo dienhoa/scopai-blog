@@ -4,8 +4,8 @@ title: About Me
 permalink: /about/
 ---
 
-This website is powered by **[fastpages](https://github.com/fastai/fastpages)** [^1].
+I am Dien-Hoa Truong, Machine Learning Engineer live in South of France. If you want to contact me anything about this project or about Data Science, you can reach me at:
 
+email: [dienhoa.t@gmail.com](dienhoa.t@gmail.com)
 
-
-[^1]:a blogging platform that natively supports Jupyter notebooks in addition to other formats.
+twitter: [https://twitter.com/DienhoaT](https://twitter.com/DienhoaT)
