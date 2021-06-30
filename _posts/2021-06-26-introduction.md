@@ -28,12 +28,12 @@ Below is some samples about healthy/unhealthy lung sounds:
 
 <br/>
 
-<center> <iframe width="420" height="315" src="http://www.youtube.com/embed/xnubmmeDWrw" frameborder="0" allowfullscreen></iframe> </center>
+<center> <iframe width="420" height="315" src="https://www.youtube.com/embed/xnubmmeDWrw" frameborder="0" allowfullscreen></iframe> </center>
 <center> <em> Healthy Lung Sound </em> </center>
 
 <br/>
 
-<center> <iframe width="420" height="315" src="http://www.youtube.com/embed/KRtAqeEGq2Q" frameborder="0" allowfullscreen></iframe> </center>
+<center> <iframe width="420" height="315" src="https://www.youtube.com/embed/KRtAqeEGq2Q" frameborder="0" allowfullscreen></iframe> </center>
 <center> <em> Unhealthy Lung Sound </em> </center>
 
 <br/>
